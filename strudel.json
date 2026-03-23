@@ -1,0 +1,25 @@
+{
+  "_base": "https://john-szetho.github.io/26031-double-bass/",
+  "db1": [
+    "db1/bass-sample-1.wav",
+    "db1/bass-sample-2.wav",
+    "db1/bass-sample-3.wav",
+    "db1/bass-sample-4.wav",
+    "db1/bass-sample-5.wav",
+    "db1/bass-sample-6.wav",
+    "db1/bass-sample-7.wav",
+    "db1/bass-sample-8.wav",
+    "db1/bass-sample-9.wav",
+    "db1/bass-sample-10.wav",
+    "db1/bass-sample-11.wav"
+  ],
+  "db2": [
+    "db2/double-bass-for-slash-1.wav",
+    "db2/double-bass-for-slash-2.wav",
+    "db2/double-bass-for-slash-3.wav",
+    "db2/double-bass-for-slash-4.wav",
+    "db2/double-bass-for-slash-5.wav",
+    "db2/double-bass-for-slash-6.wav"
+  ],
+  "db3": ["db3/db3-1.wav", "db3/db3-2.wav", "db3/db3-3.wav"]
+}
