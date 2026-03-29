@@ -1,4 +1,13 @@
 {
   "_base": "https://moodyindigo.github.io/bass/",
-  "db": ["db/db-1.wav", "db/db-2.wav", "db/db-3.wav", "db/db-4.wav", "db/db-5.wav", "db/db-6.wav"]
+  "bow": ["bow/db-bow-1.wav", "bow/db-bow-2.wav", "bow/db-bow-3.wav", "bow/db-bow-4.wav"],
+  "plucked": [
+    "plucked/db-plucked-1.wav",
+    "plucked/db-plucked-2.wav",
+    "plucked/db-plucked-3.wav",
+    "plucked/db-plucked-4.wav",
+    "plucked/db-plucked-5.wav",
+    "plucked/db-plucked-6.wav",
+    "plucked/db-plucked-7.wav"
+  ]
 }
