@@ -1,0 +1,13 @@
+{
+  "_base": "https://moodyindigo.github.io/bass/",
+  "bow": ["bow/db-bow-1.wav", "bow/db-bow-2.wav", "bow/db-bow-3.wav", "bow/db-bow-4.wav"],
+  "pluck": [
+    "pluck/db-pluck-1.wav",
+    "pluck/db-pluck-2.wav",
+    "pluck/db-pluck-3.wav",
+    "pluck/db-pluck-4.wav",
+    "pluck/db-pluck-5.wav",
+    "pluck/db-pluck-6.wav",
+    "pluck/db-pluck-7.wav"
+  ]
+}
