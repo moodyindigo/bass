@@ -9,5 +9,18 @@
     "pluck/db-pluck-5.wav",
     "pluck/db-pluck-6.wav",
     "pluck/db-pluck-7.wav"
+  ],
+  "og": [
+    "og/db-og-sample-1.wav",
+    "og/db-og-sample-2.wav",
+    "og/db-og-sample-3.wav",
+    "og/db-og-sample-4.wav",
+    "og/db-og-sample-5.wav",
+    "og/db-og-sample-6.wav",
+    "og/db-og-sample-7.wav",
+    "og/db-og-sample-8.wav",
+    "og/db-og-sample-9.wav",
+    "og/db-og-sample-10.wav",
+    "og/db-og-sample-11.wav"
   ]
 }
